@@ -1,2 +1,2 @@
 ## Project is in development
-[Afrage Website](https://overskilldev.github.io/home/)
+[Website](https://overskillart.github.io/home/)
